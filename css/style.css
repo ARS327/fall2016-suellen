@@ -1,0 +1,9 @@
+.transluscent-image {
+	position: absolute;
+}
+
+.image-container {
+	position: absolute;
+	width: 640px;
+	height: 480px;
+}
